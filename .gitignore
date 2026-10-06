@@ -1,0 +1,110 @@
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# React / Vite
+# =========================
+node_modules/
+dist/
+.vite/
+.cache/
+*.tsbuildinfo
+
+# =========================
+# Drogon / C++
+# =========================
+# CMake build directories
+build/
+cmake-build-*/
+out/
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Object / dependency files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Drogon generated / local runtime files
+logs/
+*.log
+
+# =========================
+# SQLite
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# SQLite temporary/journal files
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# =========================
+# API / Runtime
+# =========================
+uploads/
+tmp/
+temp/
+data/
+
+# Local PID files
+*.pid
+
+# =========================
+# Coverage / Testing
+# =========================
+coverage/
+*.gcda
+*.gcno
+*.gcov
+
+# =========================
+# Package manager
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# vcpkg
+vcpkg/
+.vcpkg/
+
+# vcpkg installed dependencies
+vcpkg_installed/
+**/vcpkg_installed/

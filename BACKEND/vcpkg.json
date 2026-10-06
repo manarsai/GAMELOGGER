@@ -1,0 +1,6 @@
+{
+  "dependencies": [
+    "drogon",
+    "sqlite3"
+  ]
+}
