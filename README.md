@@ -1,5 +1,8 @@
 GameLogger: A website for keeping track of the games you play.
+<br>
 Tech Stack: React/Vite, Drogon, C++, SQLite
+
+<Br>
 <img width="1437" height="718" alt="image" src="https://github.com/user-attachments/assets/03f767a9-8093-44cc-9216-db5d6e7ece27" />
 <img width="1382" height="717" alt="image" src="https://github.com/user-attachments/assets/c79a4f7c-4d7e-47a5-96cc-831cc02f77ee" />
 <img width="1473" height="753" alt="image" src="https://github.com/user-attachments/assets/e05f542d-63b2-427a-ada1-c6cf81f86a0f" />
